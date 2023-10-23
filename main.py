@@ -7,7 +7,7 @@
 #########################################################
 
 import json
-from Contact_List.contacts import Contacts
+from contacts import Contacts
 
 # Default initialization
 filename = 'default.dat'
